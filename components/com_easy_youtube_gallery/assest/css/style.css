@@ -1,0 +1,50 @@
+.items-list{}
+.items-list .item{float: right;
+    margin: 10px;
+    width: 100%;}
+.items-list .desc{
+padding:10px 0 0 0;}
+.items-list .itemimg{
+float:left;
+width:auto;
+margin:0 20px;}
+
+.videoitems_list li {
+       display: inline-table;
+    height: 125px;
+    list-style: none outside none;
+    overflow: hidden;
+    padding: 10px;
+    text-align: center;
+    width: 140px;
+}
+.channel-wrapper{
+height: 160px;
+width:99%;}
+.channel{
+margin:20px 0;
+float: left;
+    overflow: hidden;
+   max-width: 99%;}
+.items-channel{
+float:left;
+overflow: hidden;
+margin-left:0px;
+}
+.items-channel .item{
+  display: inline-table;
+    margin:0 10px;
+	padding:0;
+    text-align: center;
+    width: 140px;
+}
+.jcvideo-item{
+text-align:center;}
+#left-arr{background: url("../images/arrow-left.png") no-repeat scroll center center transparent;
+    float: left;
+    height: 120px;
+    width: 50px;}
+#right-arr{background: url("../images/arrow-right.png") no-repeat scroll center center transparent;
+    float: right;
+    height: 120px;
+    width: 50px;}

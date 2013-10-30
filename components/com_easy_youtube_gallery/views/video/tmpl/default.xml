@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="Video" option="View">
+	</layout>
+	<fields name="request">
+		<fieldset name="request">
+
+			<field name="id" type="hidden" default="0" />
+		</fieldset>
+	</fields>
+	<fields name="params" >
+		<fieldset name="basic">
+			
+		</fieldset>
+		<fieldset name="COM_EASY_YOUTUBE_GALLERY_PLAYER_FIELDSET_LABEL">
+			<field name="playerW" type="text" label="Enter player width (px)" filter="integer" default="560" />
+			<field name="playerH" type="text" label="Enter player height (px)" filter="integer" default="315" />
+			
+			<field name="relation" type="radio" default="0" label="show related videos" description="">
+				  <option value="0">no</option>
+				  <option value="1">yes</option>
+			</field>
+			<field name="full" type="radio" default="0" label="alow full screen" description="">
+				  <option value="0">no</option>
+				  <option value="1">yes</option>
+			</field>
+			<field name="info" type="radio" default="0" label="show youtube info" description="">
+				  <option value="0">no</option>
+				  <option value="1">yes</option>
+			</field>
+			<field name="hd" type="radio" default="0" label="hd" description="">
+				  <option value="0">no</option>
+				  <option value="1">yes</option>
+			</field>
+			<field name="controls" type="radio" default="0" label="show youtube controls" description="">
+				  <option value="0">no</option>
+				  <option value="1">yes</option>
+			</field>
+		</fieldset>
+	</fields>
+</metadata>

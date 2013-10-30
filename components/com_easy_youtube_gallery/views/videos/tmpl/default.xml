@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="Video Category" option="View">
+		
+	</layout>
+	<fields name="request">
+		<fieldset name="request"
+		>
+			<field name="mycategory" type="category" extension="com_easy_youtube_gallery" label="Select a category" description="" >
+				<option value="0">all</option>
+			</field>
+				<field name="defaultvideo" type="sql" query="SELECT id , title FROM #__ec_video_items WHERE state=1" key_field="id" value_field="title" label="select default video (for channel page)" default="0" >
+				<option value="0">none</option>
+			</field>
+		</fieldset>
+	</fields>
+
+	<fields name="params" addfieldpath="/administrator/components/com_foxcontact/models/fields">
+
+		
+	
+		<fieldset name="COM_EASY_YOUTUBE_GALLERY_CATEGORY_FIELDSET_LABEL">
+
+			<field name="show_category_title" type="list"
+				label="show category title"
+				description=""
+				default="1"
+			>
+				<option value="0">JHIDE</option>
+				<option value="1">JSHOW</option>
+			</field>
+
+			<field name="show_description" type="list"
+				description=""
+				label="show category description"
+				default="1"
+			>
+				<option value="0">JHIDE</option>
+				<option value="1">JSHOW</option>
+			</field>
+
+			<field name="show_description_image" type="list"
+				description="JGLOBAL_SHOW_CATEGORY_IMAGE_DESC"
+				label="JGLOBAL_SHOW_CATEGORY_IMAGE_LABEL"
+				default="1"
+			>
+				<option value="0">JHIDE</option>
+				<option value="1">JSHOW</option>
+			</field>
+		</fieldset>
+		<fieldset name="COM_EASY_YOUTUBE_GALLERY_LAYOUT_FIELDSET_LABEL">
+			<field name="mylayout" type="list" default="" label="Select an layout" description="">
+			  <option value="thumb">thumb</option>
+			  <option value="list">list</option>
+			  <option value="channel">channel</option>
+			</field>
+		
+			<field name="open" type="list" default="" label="open on page" description="">
+			  <option value="page">video page</option>
+			  <option value="lightbox">lightbox</option>
+			  <option value="onpage">on this page</option>
+			</field>
+			<field name="itemsonpage" type="integer" default="12" label="items on page" description="" first="1" last="24" step="1" />
+			<field name="showtitles" type="radio" default="1" label="show videos titles" description="">
+				  <option value="0">no</option>
+				  <option value="1">yes</option>
+			</field>
+			<field name="titleheading" type="list" default="4" 	label="titles heading"	description="">
+					<option value="1">JH1</option>
+					<option value="2">JH2</option>
+					<option value="3">JH3</option>
+					<option value="4">JH4</option>
+					<option value="5">JH5</option>
+					<option value="6">JH6</option>
+				</field>
+			<field name="showdesc" type="radio" default="1" label="show videos descriptions" description="show videos descriptions (only on list page, if titles enable)">
+				  <option value="0">no</option>
+				  <option value="1">yes</option>
+			</field>
+			
+		</fieldset>
+		<fieldset name="COM_EASY_YOUTUBE_GALLERY_PLAYER_FIELDSET_LABEL">
+			<field name="playerW" type="text" label="Enter player width (px)" filter="integer" default="560" />
+			<field name="playerH" type="text" label="Enter player height (px)" filter="integer" default="315" />
+			
+			<field name="relation" type="radio" default="0" label="show related videos" description="">
+				  <option value="0">no</option>
+				  <option value="1">yes</option>
+			</field>
+			<field name="full" type="radio" default="0" label="alow full screen" description="">
+				  <option value="0">no</option>
+				  <option value="1">yes</option>
+			</field>
+			<field name="info" type="radio" default="0" label="show youtube info" description="">
+				  <option value="0">no</option>
+				  <option value="1">yes</option>
+			</field>
+				<field name="hd" type="radio" default="0" label="hd" description="">
+				  <option value="0">no</option>
+				  <option value="1">yes</option>
+			</field>
+			<field name="controls" type="radio" default="0" label="show youtube controls" description="">
+				  <option value="0">no</option>
+				  <option value="1">yes</option>
+			</field>
+		</fieldset>
+	</fields>
+</metadata>

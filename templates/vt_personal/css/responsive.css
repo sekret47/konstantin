@@ -1,0 +1,162 @@
+/* Landscape phones and down */
+@media (max-width: 480px) {
+/*///////////////  START ////////////////// */
+#vt_body_wrapper {min-width:280px !important;}
+div.vt_section{ width:280px !important;}
+.menu_vtem_nav{ display:none !important;}
+
+#vt_header{ height:45px !important;}
+.template-style1 #vt_logo,
+.template-style2 #vt_logo,
+.template-style3 #vt_logo,
+.template-style4 #vt_logo{ background:none !important; height:auto !important; top:0px !important;}
+.template-style1 #vt_logo img,
+.template-style2 #vt_logo img,
+.template-style3 #vt_logo img,
+.template-style4 #vt_logo img{ display:block !important; width:100% !important; height:auto !important;}
+
+.box_skitter .label_skitter{ top:30% !important;}
+#vt_utility .whatk2_title, #vt_bottom .document_title,
+.box_skitter .label_skitter{ font-size:12px !important;}
+#vt_utility .whatk2_title h2, #vt_bottom .document_title h2,
+.box_skitter .label_skitter h1{ font-size:30px !important;}
+#vt_utility .whatk2_title_head, #vt_bottom .document_title_head{ font-size:15px !important;}
+#vt_utility .whatk2_title_head h1, #vt_bottom .document_title_head h1{ font-size:36px !important;}
+#vt_utility .whatk2_title_head h1{ padding-top:60px !important;}
+
+div.itemCommentsForm form .groupinput p{ padding-right:0px !important;}
+#vt_nav_right .vt_module_inside{ margin:0px !important;}
+
+#k2Container .subCategoryContainer div.subCategory a.subCategoryImage,
+#k2Container .subCategoryContainer div.subCategory .k2_boxitem,
+div.itemCommentsForm form .groupinput p,
+.vt_blog .registration #member-registration dl dt, 
+.vt_blog .registration #member-registration dl dd,
+#vt_utility .whatk2_item ul li,
+#vt_feature .about_item .item, 
+#vt_bottom .document_item .item,
+#vt_feature .about_item ul, 
+#vt_bottom .document_item ul,
+.contentwidthl,
+.navleft1, 
+.navright1,
+.vt_img_fix,
+#vt_top .vt_width50,
+.vt_width33,
+.vt_width25,
+.blog-featured .vt_boxitem,
+.article-info dd,
+.contentwidth1, .contentwidthr,
+div.itemRelated, div.itemAuthorLatest,
+div.k2ItemsBlock ul li div.moduleItemIntrotext a.moduleItemImage img,
+#vt_header .headermanual1{ width:100% !important; min-height:auto !important;}
+div.itemRelated, div.itemAuthorLatest{ padding:10px 0px !important;}
+.article-info dd{ margin:0px; padding:0px; line-height:18px;}
+.article-info dd.published{ border:0px;}
+#k2Container div.subCategoryContainer,
+#vt_feature .about_item .item img, 
+#vt_bottom .document_item .item img,
+span.userItemImage img, #k2Container .tagItemImage img, 
+div#k2Container div.itemList div.itemContainer .catItemImage img, 
+div#k2Container .itemImage img,
+div.itemListCategory img,
+#k2Container div.subCategory img, 
+div.k2ItemsBlock ul li div.moduleItemIntrotext a.moduleItemImage img, 
+.items-row img, .item-page img,.blog .items-row .item img, 
+.vt_blog .vt_intro img,.blog-featured .img-intro-left,
+#contact-form #jform_contact_message, .inputbox, #billingDefaultAddress input, #com-form-login-username input, .category-list .inputbox, .login-fields input, #member-registration dd input, input#jform_email, #member-registration dl dd input, .display-limit .inputbox, #contact-form input, #searchForm .inputbox, #finder-filter-window #filter_date1, #finder-filter-window #filter_date2{
+-moz-box-sizing: border-box;
+-webkit--box-sizing: border-box;
+box-sizing: border-box;
+width:100% !important;
+*width:99% !important;
+	}	
+#vt_feature .about_item ul, #vt_bottom .document_item ul,	
+#vt_feature .about_item .item, #vt_bottom .document_item .item{ padding:10px 0px !important; background:none !important;}	
+#vt_utility .whatk2_item ul{ padding-top:20px !important;}
+#vt_utility .whatk2_item ul li a{
+ padding:20px 0px !important;
+ background:url(../images/bg_linetransperant.png) left bottom repeat-x !important;
+ }
+.topmanual1{ width:20% !important;}
+.topmanual2{ width:80% !important;}
+#vt_top .search .inputbox{ width:160px !important;}	
+
+#vt_bottom .document_title_head h1{ padding-top:45px !important;}
+#vt_utility .whatk2_item ul li a{ font-size:16px !important;}
+
+		
+#k2Container .subCategoryContainer div.subCategory a.subCategoryImage{ margin:0px !important;}
+.blog-featured .img-intro-left{ padding:0px !important;}	
+#k2Container div.subCategory{ margin:0px 0px 5px !important;}
+.pagination, .counter{ overflow:auto;}
+div.itemToolbar ul li{ padding-left:0px !important;}
+#k2Container div.itemToolbar{ float:left !important;}
+#vt_footer .vt_moduletable{ min-height:auto !important;}
+.vt_clr,#vt_footer .clearfix3{ clear:both;}
+.vtemdrildown,.vt_drilldown_menu{ display:block !important; position:relative;}
+/*///////////////  END ////////////////// */
+}
+/* Landscape phone to portrait tablet */
+@media (min-width: 481px) and (max-width: 767px) {
+/*///////////////  START ////////////////// */
+#vt_body_wrapper {min-width:475px !important;}
+div.vt_section{ width:475px !important;}
+.box_skitter .label_skitter{ top:30% !important;}
+.box_skitter .label_skitter,
+#vt_utility .whatk2_title_head, #vt_bottom .document_title_head{ font-size:20px !important;}
+.box_skitter .label_skitter h1,
+#vt_utility .whatk2_title_head h1, #vt_bottom .document_title_head h1{ font-size:50px !important;}
+.menu_vtem_nav{ display:none !important;}
+.contentwidthl,
+.navleft1, 
+.navright1,
+.vt_img_fix,
+.vt_width33,
+#vt_top .vt_width50,
+#vt_header .vt_width50,
+.contentwidth1, .contentwidthr,
+#k2Container div.itemToolbar,
+div.k2ItemsBlock ul li div.moduleItemIntrotext a.moduleItemImage img{ width:100% !important;}
+#k2Container div.itemToolbar{ margin:0px 0px 10px !important;}
+#vt_nav_right .vt_module_inside{ margin:0px !important;}
+.topmanual1{ width:60% !important;}
+.topmanual2{ width:40% !important;}
+.vt_width25{ width:50% !important;}
+#vt_footer .vt_moduletable{ min-height:220px;}
+#vt_bottom .document_title_head h1{ padding-top:45px !important;}
+#vt_utility .whatk2_item ul li a{ font-size:16px !important;}
+#vt_utility .whatk2_item ul li a:hover span{ background-position:center 30% !important;}
+.blog-featured .vt_boxitem{ width:62% !important;}
+#k2Container div.itemToolbar{ float:left !important;}
+div.itemToolbar ul li{ padding-left:0px !important;}
+#k2Container .subCategoryContainer div.subCategory .k2_boxitem{ width:57% !important;}
+.vt_clr,#vt_footer .clearfix3{ clear:both;}
+.vtemdrildown,.vt_drilldown_menu{ display:block !important; position:relative;}
+
+/*///////////////  END ////////////////// */
+}
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+/*///////////////  START ////////////////// */
+#vt_body_wrapper{min-width:750px !important;} 
+div.vt_section{ width:750px !important;}
+.box_skitter .label_skitter{ top:30% !important;}
+#vt_utility .whatk2_title_head, #vt_bottom .document_title_head{ font-size:26px !important;}
+div.itemToolbar ul li{ padding-left:0px !important;}
+#k2Container div.itemToolbar{ float:left !important;}
+#vtem_menu ul.menu_vtem_nav li{ margin:0px;}
+#vtem_menu ul.menu_vtem_nav li a{ padding:0px 11px !important; font-size:11px !important;}
+.menu_vtem_nav li.last.haschild  ul{ left:auto !important; right:0px;}
+.k2CalendarBlock table.calendar tr td{ padding:2px 0px !important;}
+#vt_top .search .inputbox{ width:90px !important;}
+
+/*///////////////  END ////////////////// */
+}
+/*Big desktop */
+@media (min-width: 1500px){
+/*///////////////  START ////////////////// */
+#vt_body_wrapper{min-width:1200px !important;}
+div.vt_section{ width:1200px !important;}
+/*///////////////  END ////////////////// */
+}

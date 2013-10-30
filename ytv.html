@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="css/ytv.css"/>
+    <script type="text/javascript" src="js/ytv.js"></script>
+
+</head>
+<script>
+    $(window).load(function(){
+        $('#demo').ytv({
+            element: null, // The element or element ID to apply the YouTube TV Player to
+            user: null, // The Username of the YouTube user you want to display videos from
+            playlist: '', // The Playlist ID you would like to load
+            fullscreen: false, // fullscreen
+            accent: '#fff', // A CSS color string to apply to the accents of the player
+            controls: true, // Show or hide youtube controls
+            annotations: false, // Show or hide the annotations from the YouTube video
+            autoplay: false, // autoplay
+            chainVideos: true, // If true, the next video in que will automatically play after the current video has completed
+            browsePlaylists: false, //  If true and the specified user has YouTube playlists, they will be accessible in the player by clicking the users Username
+            events: { // he respective events will fire when key actions in the player have been called
+                videoReady: function(){},
+                stateChange: function(){}
+            }
+        });
+    });
+</script>
+<body>
+<div id="demo"></div>
+</body>
+</html>

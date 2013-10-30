@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="1.6.0" client="site" method="upgrade">
+	<name>VTEM Image Show</name>
+	<author>Nguyen Van Tuyen</author>
+	<creationDate>01/01/2011</creationDate>
+	<copyright>(C) 2011 vtem.net - All rights reserved.</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+	<authorEmail>tuyen0110@gmail.com</authorEmail>
+	<authorUrl>www.vtem.net</authorUrl>
+	<version>1.1</version>
+	<description><![CDATA[
+		<style type='text/css'>span.readonly { padding: 10px; font-family: Arial; font-size:13px !important; font-weight: normal !important; text-align: justify; color: #4d4d4d; line-height: 24px; } span.readonly h1 { clear:both; font-family: Georgia, sans-serif; font-size:38px; margin:30px 20px 23px; padding:0px 0px 24px 10px; color:#333; border-bottom: 1px solid #eee; font-weight: normal; } span.readonly p { margin: 0 26px 10px } span.readonly p a { color: #ab3f0a } span.readonly p.homepage { margin-top: 30px }.panel fieldset.panelform > ul > li > label{color: #999;font-size:10px;text-transform:uppercase;height: 24px;line-height: 24px;max-width: 35% !important;min-width: 35% !important;padding:0 5px;}.panel fieldset.panelform ul li{border-top:1px solid #f3f3f3;clear:both;}.pane-sliders .panel h3.title{padding: 12px 0;margin: 2px 0;border:1px solid #ddd;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;}.pane-sliders .panel{border:none !important;}.pane-sliders .content input,.pane-sliders .content select,.pane-sliders .content textarea{padding:5px; border:1px solid #ddd;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px; font-size:12px;font-family:Arial, Helvetica, sans-serif; color:#666;-webkit-box-shadow: inset 0px 0px 2px 2px #f5f5f5;
+-moz-box-shadow: inset 0px 0px 2px 2px #f5f5f5;box-shadow: inset 0px 0px 2px 2px #f5f5f5;}.pane-sliders .spacer,#options-basic .spacer{background: none repeat scroll 0 0 #EEEEEE;display: block;height: 5px;margin: 15px 0;width:442px;}.pane-sliders .spacer label,#options-basic .spacer label{background:#FFFFFF;color: #03A8D2;float: none;font-size: 10px; margin: -10px auto 0;padding: 5px 15px;text-align: center;text-transform: uppercase;width: 110px;}#options-basic .spacer label{position: relative;top: -12px;}</style><span class='readonly'><h1>VTEM Image Show</h1><p>This version is new generation dedicated to Joomla 1.6+.</p><p>These are awesome module for displaying and animating pictures in limited space but sometime you want to pack more features in a lightweight and simple slideshow solutions ..., just like VTEM Image Show. It is a feature rich and flexible slideshow that comes with 38 unique and smooth animations.</p> <p class='homepage'>Find out more about our modules: <a href='http://vtem.net/extensions.html' target='_blank'>http://vtem.net/extensions.html</a></p></span>
+	]]></description>
+	<files>
+		<filename module="mod_vtem_imageshow">mod_vtem_imageshow.php</filename>
+		<filename>index.html</filename>
+		<filename>helper.php</filename>
+		<folder>tmpl/</folder>
+		<folder>js/</folder>
+		<folder>css/</folder>
+		<folder>images/</folder>
+	</files>
+	<config>
+	  <fields name="params">
+		<fieldset name="basic">
+		  <field name="width" type="text" default="100%" label="Module width" description="Width of Slideshow in [px] or [%]" />
+		  <field name="height" type="text" default="250px" label="Module height" description="Here you can type pixels (for instance '300px'), a percentage (relative to the width of the slideshow, for instance '50%')" />
+		  <field name="imagePath" type="text" default="images/sampledata/fruitshop" label="Images Directory" description="Location of images to be used in the rotation" size="35" />
+			<field name="sortCriteria" type="list" default="0" label="Sort Criteria" description="The sort criteria of the images files">
+				<option value="0">Alphabetical</option>
+				<option value="1">Creation Date</option>
+			</field>
+			<field name="sortOrder" type="list" default="0" label="Sort Order" description="The sort order of the images files">
+				<option value="0">Ascending</option>
+				<option value="1">Descending</option>
+				<option value="2">Random</option>
+			</field>
+			<field name="sortOrderManual" type="text" default="" label="Manual Sort Order" description="Comma seperated list of images that describe the order - Example: image3.jpg,image2.jpg,image1.jpg - this will override Sort Criteria if set" size="40" />
+			<field name="fx" type="list" default="cube" label="Effect style" description="Name of transition effect (ex: fade,scrollUp,shuffle ...)">
+				<option value="cube">Cube</option>
+				<option value="cubeRandom">cubeRandom</option>
+				<option value="block">block</option>
+				<option value="cubeStop">cubeStop</option>
+				<option value="cubeHide">cubeHide</option>
+				<option value="cubeSize">cubeSize</option>
+				<option value="horizontal">horizontal</option>
+				<option value="showBars">showBars</option>
+				<option value="showBarsRandom">showBarsRandom</option>
+				<option value="tube">tube</option>
+				<option value="fade">fade</option>
+				<option value="fadeFour">fadeFour</option>
+				<option value="paralell">paralell</option>
+				<option value="blind">blind</option>
+				<option value="blindHeight">blindHeight</option>
+				<option value="blindWidth">blindWidth</option>
+				<option value="directionTop">directionTop</option>
+				<option value="directionBottom">directionBottom</option>
+				<option value="directionRight">directionRight</option>
+				<option value="directionLeft">directionLeft</option>
+				<option value="cubeStopRandom">cubeStopRandom</option>
+				<option value="cubeSpread">cubeSpread</option>
+				<option value="cubeJelly">cubeJelly</option>
+				<option value="glassCube">glassCube</option>
+				<option value="glassBlock">glassBlock</option>
+				<option value="circles">circles</option>
+				<option value="circlesInside">circlesInside</option>
+				<option value="circlesRotate">circlesRotate</option>
+				<option value="random">random</option>
+				<option value="randomSmart">randomSmart</option>
+			</field>
+			<field name="autostart" type="radio" default="1" label="AutoPlay" description="You can enable/disable the automatic animation of the items">
+				<option value="0">No</option>
+				<option value="1">Yes</option>
+			</field>
+			<field name="slideSpeed" type="text" default="3500" label="AutoPlay Delay" description="Amount in milliseconds for the autoplay to change" />
+			<field name="navigation" type="list" default="dots" label="Navigation bar" description="Show the navigation on slideshow">
+				<option value="none">None</option>
+				<option value="dots">Dots</option>
+				<option value="dotspreview">Dots with Preview</option>
+				<option value="numbers">Numbers</option>
+				<option value="thumbs">Thumbnails</option>
+			</field>
+			<field name="navigationalign" type="radio" default="left" label="Navigation position" description="Select the position of navigation to display on the module">
+				<option value="left">Left</option>
+				<option value="center">Center</option>
+				<option value="right">Right</option>
+			</field>
+			<field name="pauseonhover" type="radio" default="0" label="Pause on hover" description="If true, and autoPlay is enabled, the show will pause on hover">
+				<option value="0">No</option>
+				<option value="1">Yes</option>
+			</field>
+			<field name="keyboard_move" type="radio" default="1" label="Enable keyboard move" description="Move to next/previous image with keyboard arrows?">
+				<option value="0">No</option>
+				<option value="1">Yes</option>
+			</field>
+			<field name="progressbar" type="radio" default="0" label="Progress bar" description="Show/Hide progress bar on the module">
+				<option value="0">No</option>
+				<option value="1">Yes</option>
+			</field>
+			<field name="prev_next" type="radio" default="1" label="Prev/Next" description="Use to show/hide the previous and next buttons">
+				<option value="0">No</option>
+				<option value="1">Yes</option>
+			</field>
+			<field name="Links / Captions" type="spacer" />
+			<field name="link_images" type="radio" default="0" label="Linked images" description="Make the Item images linkable">
+				<option value="0">No</option>
+				<option value="1">Yes</option>
+			</field>
+			<field name="target" type="radio" default="0" label="Open links in new page" description="Open links in a new page.">
+				<option value="0">No</option>
+				<option value="1">Yes</option>
+			</field>
+			<field name="urls" type="textarea" rows="3" cols="30" default="http://www.google.com;http://www.cnn.com;http://www.apple.com" label="URLs" description="Use URLs for Linked images" />
+			<field name="showcaption" type="radio" default="0" label="Show Captions" description="Display captions for images">
+				<option value="0">JNO</option>
+				<option value="1">JYES</option>
+			</field>
+			<field name="imagetitle" type="textarea" rows="3" cols="30" default="Your title1; Your title2; Your title3" label="Caption Titles" description="You can enter each title separated by a semicolon(;)" filter="raw"/>
+			<field name="imagecontent" type="textarea" rows="3" cols="30" default="Your content1; Your content2; Your content3" label="Caption Contents" description="You can enter each content separated by a semicolon(;)" filter="raw"/>
+	 </fieldset>
+	 <fieldset name="advanced">
+			<field name="jquery" type="radio" default="0" label="Jquery library" description="">
+				<option value="0">No</option>
+				<option value="1">Yes</option>
+			</field>
+			<field name="css" type="textarea" default="" label="CSS" description="Add your CSS" rows="5" cols="35" />
+			<field name="moduleclass_sfx" type="text" default="" label="Module Class Suffix" description="A suffix to be applied to the css class of the module (table.moduletable), this allows individual module styling" />
+			</fieldset>
+	 </fields>
+   </config>
+</extension>

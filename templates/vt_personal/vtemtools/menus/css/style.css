@@ -1,0 +1,134 @@
+.menu_vtem_nav,.menu_vtem_nav  *{margin:0;padding:0;}
+div#vtem_menu{z-index:9999;}
+#vtem_menu li li{margin:0;}
+.menu_vtem_nav {line-height:1.0;float:left; position:relative; z-index:1001}
+.vtem_menu_plus{ position:absolute; z-index:-99999; top:0; left:-9999em; overflow:hidden; text-indent:-99999px;}
+.menu_vtem_nav  li{float:left;list-style:none;position:relative;}
+div#vtem_menu li li a, div#vtem_menu li.active li a{display:block;padding:0;margin:0;text-decoration:none;float:none;}
+.menu_vtem_nav  li ul.blindv{ display:none; overflow:visible; z-index:100; height:auto;}
+.menu_vtem_nav  li ul{float:none;left:-999em;position:absolute;width:220px;z-index:102;}
+.menu_vtem_nav  li:hover ul,
+.menu_vtem_nav  li.sfHover ul{left:0px;top:25px;}
+.menu_vtem_nav  li:hover li ul,
+.menu_vtem_nav  li.sfHover li ul,
+.menu_vtem_nav  li li:hover li ul,
+.menu_vtem_nav  li li.sfHover li ul,
+.menu_vtem_nav  li li li:hover li ul,
+.menu_vtem_nav  li li li.sfHover li ul{top:-999em;}
+.menu_vtem_nav  li li:hover ul,
+.menu_vtem_nav  li li.sfHover ul,
+.menu_vtem_nav  li li li:hover ul,
+.menu_vtem_nav  li li li.sfHover ul,
+.menu_vtem_nav  li li li li:hover ul,
+.menu_vtem_nav  li li li li.sfHover ul{left:220px;top:0px;}
+.menu_vtem_nav  li li{position:relative;float:none;width:100%;}
+/*** EDIT THESE CSS CODES WITH CARE: ENDS ***/
+#vtem_menu ul.menu_vtem_nav{
+	margin: 0;
+	padding: 0;
+}		
+element.style {
+    height: 148px;
+    overflow: hidden;
+}
+#vtem_menu ul.menu_vtem_nav li ul {
+    margin-left: auto;
+    margin-top: 0;
+}
+.menu_vtem_nav ul {
+    background-color: #333;
+    background-position: left top;
+    background-repeat: no-repeat;
+}
+#vtem_menu ul.menu_vtem_nav li{
+	display:block;
+	margin:0px 0px 0px 5px;
+}
+#vtem_menu ul li a{
+	margin:0;
+	display:block;
+	float: left;
+	line-height:36px;
+	height:36px;
+	padding: 0px 15px;
+}	
+#vtem_menu ul li ul li a,
+#vtem_menu ul li ul li ul li a,
+#vtem_menu ul li ul li ul li ul li a,
+#vtem_menu ul li ul li ul li ul li ul li a{height:33px !important; line-height:33px !important;}		
+#vtem_menu ul.menu_vtem_dropline li ul li a{ line-height:15px; height:15px;}
+#vtem_menu ul.menu_vtem_nav ul li{
+	display:block;
+	padding:0 0 0 15px;
+	text-align:left;
+	width:200px;
+}
+#vtem_menu ul ul li a{
+	display:block;
+}
+#vtem_menu ul ul li a:hover,
+#vtem_menu ul li.active.parent ul a:hover {
+	display:block;
+}
+/*** Fancy CSS here ***/
+#vtem_menu li.vtem_fancybackground {
+z-index: 1502;
+position: absolute;
+top:0;
+height:5px;
+background-color:#f80;
+display:block;
+visibility:hidden;
+}
+/*----------------------DROPLINE MENU---------------------------*/
+ul.menu_vtem_dropline,
+ul.menu_vtem_dropline li,
+ul.menu_vtem_dropline ul {
+ list-style: none;
+ margin: 0;
+ padding: 0;
+}
+ul.menu_vtem_dropline {
+ width: 100%;
+ position: relative;
+ z-index: 597;
+ float: left;
+}
+ul.menu_vtem_dropline li {
+ float: left;
+}
+ul.menu_vtem_dropline li.hover,
+ul.menu_vtem_dropline li:hover {
+ position: relative;
+ z-index: 599;
+ cursor: default;
+}
+ul.menu_vtem_dropline ul {
+ visibility: hidden;
+ position: absolute;
+ top: 100%;
+ left: 0;
+ z-index: 598;
+ width: 100%;
+ display:block;
+}
+ul.menu_vtem_dropline ul li {
+ float: none;
+ float:left;
+ display:block;
+}
+ul.menu_vtem_dropline ul li a,ul.menu_vtem_dropline ul li a span{
+display:block;
+line-height:normal;
+}
+ul.menu_vtem_dropline ul ul {
+ top: 1px;
+ left: 99%;
+}
+ul.menu_vtem_dropline li:hover > ul {
+ visibility: visible;
+}
+ul.menu_vtem_dropline li.hover,
+ul.menu_vtem_dropline li:hover {
+ position: static;
+}

@@ -1,0 +1,94 @@
+/**
+ * CSS Document for offline page
+ * @version $Id: error.css 14401 2010-01-26 14:10:00Z louis $
+ * @package Joomla
+ * @copyright Copyright (C) 2005 - 2010 Open Source Matters. All rights reserved.
+ * @license GNU/GPL, see LICENSE.php
+ * Joomla! is free software and parts of it may contain or be derived from the
+ * GNU General Public License or other free or open source software licenses.
+ * See COPYRIGHT.php for copyright notices and details.
+ */
+/* Start Common Styles */
+body#vtem_warper_erro{ background:#fff; margin:0 auto; padding:0; color:#999; font-family: helvetica, arial, sans-serif;}
+#vtem_error_fashion #outline {
+	margin: 50px auto 0px;
+	padding: 0px 0px 0px 0px;
+	width:800px;
+}
+.vtem_logo_offline{ width:273px; height:79px; margin:0 auto;}
+#vtem_error_fashion #errorboxoutline {
+	width:800px;
+	margin: 0px auto;
+	padding:10px 0px;
+	float:left;
+}
+#vtem_error_fashion #errorboxheader {
+	width:100%;
+	background:url(../images/error.jpg) center top no-repeat;
+	height:328px;
+	text-indent:-9999px;
+	float:left;
+	font-size:0px;
+	text-transform:uppercase;
+	margin: 0px 0px 10px;
+	padding: 0px;
+	color:#04AED2;
+	font-weight:bold;
+	text-align:left;
+}
+#vtem_error_fashion #errorboxheader .erro_numberfoun{display:block; width:100%; font-size:160px; line-height:160px; text-transform:uppercase; font-weight:bold; text-shadow: 1px 1px 1px #000;}
+#vtem_error_fashion #errorboxheader .erro_textinfor{ display:block; width:100%; font-size:35px; text-align:center;}
+#vtem_error_fashion #errorboxbody {
+	margin: 0px auto;
+	padding: 10px 0px;
+	width:200px;
+	float:none;
+	text-align: left;
+}
+#vtem_error_fashion #errorboxbody .home_pages{
+	padding:20px 0px 0px 58px;
+	line-height:65px;
+	background:url(../images/back_home_error.png) left center no-repeat;
+	font-size:24px;
+	text-transform:uppercase;
+	float:left;
+}
+#vtem_error_fashion #errorboxbody .home_pages a{ color:#e54f4f; text-decoration:none;}
+#vtem_error_fashion #errorboxbody .Please_try{
+	padding:10px;
+	margin-bottom:10px;
+	background-color:#444;
+	color:#fff;
+	float:left;
+	}	
+#vtem_error_fashion #errorboxbody .home_pages:hover{
+	opacity:0.8;
+filter:alpha(opacity=80);
+	}	
+#vtem_error_fashion #errorboxbody .following_pages{ font-size:16px;text-transform:uppercase;}
+	
+#vtem_error_fashion #techinfo {
+	margin: 10px;
+	padding: 10px;
+	text-align: left;
+	color: #777;
+}
+#vtem_error_fashion #techinfo p {
+	color: #777;
+}
+#vtem_error_fashion #errorboxbody p > strong{ font-size:18px; font-weight:normal; color:#666;}
+#vtem_error_fashion #errorboxbody ul,
+#vtem_error_fashion #errorboxbody ul li{ list-style:none; padding:0px; margin:0px;}
+#vtem_error_fashion #errorboxbody ul li a{ 
+background:#fff url(../images/button_overlay.png) left top repeat-x;
+border:1px solid #ccc; 
+text-decoration:none; 
+font-weight:bold; 
+padding:5px 10px;
+border-radius:4px;
+-moz-border-radius:4px;
+-webkit-border-radius:4px;
+color:#b74d4d;
+}
+#vtem_error_fashion #errorboxbody ul li a:hover{background:#fff url(../images/button_overlay.png) left -70px repeat-x;}
+#vtem_error_fashion #errorboxbody ul li a span{ display:inline-block; background:url(../images/back_home.png) left center no-repeat; padding-left:15px;}

@@ -1,0 +1,74 @@
+/* Joomla Overrides */
+.pane-sliders .panel,.tab-content .accordion-group,.tab-content .accordion-group .accordion-inner{border:none !important;}
+.pane-sliders .content input,.pane-sliders .content select,.pane-sliders .content textarea{padding:5px; border:1px solid #ddd;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px; font-size:12px;font-family:Arial, Helvetica, sans-serif; color:#666;-webkit-box-shadow: inset 0px 0px 2px 2px #f5f5f5;
+-moz-box-shadow: inset 0px 0px 2px 2px #f5f5f5;box-shadow: inset 0px 0px 2px 2px #f5f5f5;}
+.pane-sliders .panel h3.title,.tab-content .accordion-heading{
+    padding: 12px 0; 
+    margin: 2px 0;
+	background: url(images/header-icon.png) repeat-x 0px -32px;
+	border:1px solid #ddd;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+}
+.pane-sliders .panel h3.title a,.tab-content .accordion-heading a{
+    color: #888;
+    text-decoration: none;
+    display: block;
+    padding: 0 0 0 30px;
+    background: url(images/header-icon.png) no-repeat 6px 0px;
+    font-size: 14px;
+	outline:none;
+}
+.tab-content .accordion-heading{padding:13px 0 !important;}
+.pane-sliders .panel h3.title a span,.tab-content .accordion-heading a span{background:none; padding:0;}
+.pane-sliders .panel h3.pane-toggler-down,.pane-sliders .panel.active h3.title,.vt_active{
+background: url(images/header-icon.png) repeat-x 0px -108px;
+border:none;
+}
+.pane-sliders .panel h3.pane-toggler-down a,.pane-sliders .panel.active h3.title a{background-position:6px -15px;color:#ddd !important; }
+.pane-sliders .panel .content{background:#fff !important; margin:2px 0 !important;}
+.pane-sliders .panel.active .content{display:block !important; height:auto !important;}
+.pane-sliders .panel .content .panelform{padding:10px !important; margin:0 !important; border:1px solid #eee;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;}
+.panel fieldset.panelform .radio{margin:5px 0;}
+.panel fieldset.panelform fieldset.radio input{border:none !important; padding:0 !important}
+.panel fieldset.panelform fieldset.radio label,.tab-content .accordion-group .controls label{padding:0 5px !important; color:#666; display:inline !important;}
+.tab-content .accordion-group .controls label{position:relative; top:5px;}
+.panel fieldset.panelform > ul > li > label {
+    color: #999;
+    font-size:10px;
+	text-transform:uppercase;
+    height: 24px;
+    line-height: 24px;
+    max-width: 35% !important;
+    min-width: 35% !important;
+    padding:0 5px;
+}
+.panel fieldset.panelform ul li{
+border-top:1px solid #f3f3f3;
+clear:both;
+}
+.panelform ul li fieldset label{clear:none;color:#666; min-width:60px; max-width:100px; padding-top:3px;}
+.panelform ul li fieldset{padding:0; margin:0; background:none !important;}
+.panelform ul li select{float:none;}
+.panelform .vteminput{margin-top:9px;}
+.panelform ul li:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+	zoom: 1;
+}
+.pane-sliders .spacer,.control-group .spacer{width:100%; display:block; background:#eee; height:5px; margin:15px 0;}
+.control-group .spacer{width:460px !important;}
+.pane-sliders .spacer label,.control-group .spacer label{ background:#fff; padding:5px 15px; font-size:10px; color:#999; text-transform:uppercase; margin:-10px auto 0 auto; text-align:center; float:none; width:110px; color:#03A8D2;}
+.control-group .spacer label{top:-12px !important; position:relative; width:160px !important;}
+.vt_poswidth{width:66px; float:left; margin:0 !important;padding:0 5px 5px 5px !important; background-color:#f9f9f9; clear:none !important;}
+.vt_poswidth label{max-width:100% !important; min-width:100% !important; width:100% !important; text-align:left; display:block; color:#888; text-transform:uppercase; font-size:80%; margin:0 !important; padding:0 !important;}
+.vt_poswidth input{width:18px; height:18px; display:block; margin:0 0 0 5px; padding:0; font-weight:bold; clear:both;}
+.vt_poswidth i,.leftright i{color:#80%; color:#bbb; display:block; float:left; margin:8px 0 0 2px;}
+span.readonly{font-weight:normal !important; line-height:1.8;}
+.tab-pane.active{width:500px;}
+.accordion-group .accordion-inner .controls.vt_poswidth{padding:0 !important;}
+.accordion-group .accordion-inner .controls i{float:none !important; display:inline !important;}
