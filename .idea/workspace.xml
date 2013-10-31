@@ -2,36 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\projects\test1.local\joomla\images\banners\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\test1.local\joomla\images\banners\osmbanner1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\test1.local\joomla\images\banners\osmbanner2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\test1.local\joomla\images\banners\shop-ad-books.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\test1.local\joomla\images\banners\shop-ad.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\test1.local\joomla\images\banners\white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\test1.local\joomla\images\sampledata\fruitshop\081.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\test1.local\joomla\images\sampledata\fruitshop\20130827_101004.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\test1.local\joomla\images\sampledata\fruitshop\22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\test1.local\joomla\images\sampledata\fruitshop\DSCN2655.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\test1.local\joomla\images\sampledata\fruitshop\dafhadfh\081.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\test1.local\joomla\images\sampledata\fruitshop\en-GB.labels.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\test1.local\joomla\images\sampledata\fruitshop\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\test1.local\joomla\images\sampledata\fruitshop\jvn.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\test1.local\joomla\images\sampledata\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\test1.local\joomla\images\sampledata\jh.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\test1.local\joomla\images\sampledata\parks\animals\180px_koala_ag1.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/vt_personal/css/layouts.css" afterPath="$PROJECT_DIR$/templates/vt_personal/css/layouts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/vt_personal/css/template.css" afterPath="$PROJECT_DIR$/templates/vt_personal/css/template.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/tmpl.html" afterPath="$PROJECT_DIR$/tmp/tmpl.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="joomla.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1383215734078" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1383254368277" ignored="false" />
     <file path="/helloworld.php" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1382172942972" ignored="false" />
     <file path="/controller.php" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1382101733087" ignored="false" />
     <file path="/view.html.php" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1382116544435" ignored="false" />
     <file path="/default.php" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1382116381347" ignored="false" />
-    <file path="/layouts.css" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1383233642321" ignored="false" />
+    <file path="/layouts.css" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1383254476289" ignored="false" />
     <file path="/index.php" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1383059965829" ignored="false" />
     <file path="/ytv.html" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1382974073240" ignored="false" />
     <file path="/css_var.php" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1383050818120" ignored="false" />
@@ -59,7 +40,7 @@
       <file leaf-file-name="layouts.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/vt_personal/css/layouts.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="298" column="18" selection-start="7492" selection-end="7492" vertical-scroll-proportion="0.83369803">
+            <state line="305" column="24" selection-start="7597" selection-end="7597" vertical-scroll-proportion="0.8817427">
               <folding />
             </state>
           </provider>
@@ -68,7 +49,7 @@
       <file leaf-file-name="tmpl.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tmp/tmpl.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="45" selection-start="1669" selection-end="1669" vertical-scroll-proportion="-1.5">
+            <state line="6" column="45" selection-start="1669" selection-end="1669" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -86,7 +67,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/vt_personal/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="107" column="27" selection-start="5936" selection-end="5936" vertical-scroll-proportion="19.0">
+            <state line="107" column="27" selection-start="5936" selection-end="5936" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -95,7 +76,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/vt_personal/vtemtools/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -104,7 +85,7 @@
       <file leaf-file-name="debug.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/vt_personal/vtemtools/debug.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -176,8 +157,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Unnamed" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="68" />
-    <option name="y" value="161" />
+    <option name="x" value="89" />
+    <option name="y" value="20" />
     <option name="width" value="1364" />
     <option name="height" value="697" />
   </component>
@@ -207,6 +188,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -301,20 +283,19 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="149" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="149" />
     <property name="options.splitter.main.proportions" value="0.32083333" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="153" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="153" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../canvas" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="150" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="824" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="828" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="824" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="149" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="142" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
@@ -364,14 +345,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="68" y="161" width="1364" height="697" extended-state="0" />
+    <frame x="89" y="20" width="1364" height="697" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2841782" sideWeight="0.9821826" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28878647" sideWeight="0.9821826" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -478,16 +459,44 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ytv.html">
+    <entry file="file://$PROJECT_DIR$/templates/vt_personal/vtemtools/switcher.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="3" selection-start="600" selection-end="600" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.5982907" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/tmpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="45" selection-start="1669" selection-end="1669" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/vt_personal/vtemtools/switcher.php">
+    <entry file="file://$PROJECT_DIR$/css/ytv.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.5982907" />
+        <state line="94" column="48" selection-start="1796" selection-end="1796" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/vt_personal/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="27" selection-start="5936" selection-end="5936" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/vt_personal/vtemtools/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/vt_personal/vtemtools/debug.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/vt_personal/vtemtools/default.php">
@@ -504,44 +513,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tmp/tmpl.html">
+    <entry file="file://$PROJECT_DIR$/ytv.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="45" selection-start="1669" selection-end="1669" vertical-scroll-proportion="-1.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/vt_personal/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="27" selection-start="5936" selection-end="5936" vertical-scroll-proportion="19.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/vt_personal/vtemtools/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/ytv.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="48" selection-start="1796" selection-end="1796" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/vt_personal/vtemtools/debug.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="16" column="3" selection-start="600" selection-end="600" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/vt_personal/css/layouts.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="298" column="18" selection-start="7492" selection-end="7492" vertical-scroll-proportion="0.83369803">
+        <state line="305" column="24" selection-start="7597" selection-end="7597" vertical-scroll-proportion="0.8817427">
           <folding />
         </state>
       </provider>

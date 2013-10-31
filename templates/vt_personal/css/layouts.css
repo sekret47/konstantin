@@ -301,3 +301,7 @@ cursor: pointer;
 .address p{
     line-height: 14px;
 }
+.items-row h2{
+    font-family:Decor;
+    font-weight: normal;
+}
