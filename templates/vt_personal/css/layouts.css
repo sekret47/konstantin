@@ -3,7 +3,13 @@
 #vt_body_wrapper{ margin:0; padding:0; min-width:980px;}
 #vt_nav_right .vt_module_inside{ margin:0 0 0 15px;}
 #vt_nav_left .vt_module_inside{ margin:0 15px 0 0;}
+@font-face {
+    font-family: Decor;
+    src: url("rXPLCLZp.ttf");
+}
+body{
 
+}
 #vtem.logo-1 #vt_logo{ background:none !important;}
 #vtem.logo-1 #vt_logo{ padding-top:15px;}  
 #vtem.logo-1 #vt_logo span{ display:block; float:left; line-height:30px;}  
@@ -173,6 +179,7 @@ border:none;
  }
 .items-leading{
     margin-bottom: 25px;
+    background: #fdeb94;
 }
 
 .item-separator{
@@ -200,9 +207,10 @@ border:none;
 .items-row{
     font-size: 14px;
     padding: 18px;
-    background: #FFE8D2;
+    background: #fdeb94;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     border-radius: 6px;
+    font-family: Verdana;
 }
 .item{
     font-size: 14px;
@@ -215,6 +223,12 @@ border:none;
     background: #fdeb94;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     border-radius: 6px;
+    margin-top: 18px;
+
+}
+.article_background.home-font{
+    font-family: "Verdana";
+   /* font-size: 30px;*/
 }
 .vt_box img{
     width:98%;
@@ -252,4 +266,38 @@ cursor: pointer;
     margin: 0 auto;
     margin-top: 20px;
     font-size: 20px !important;
+}
+.blog{
+    margin-top: 18px;
+}
+
+.article_background .font-head{
+    font-family: Decor;
+    font-weight: normal;font-size: 25px;
+    line-height: 36px;
+}
+/*.article_background{
+    background: url("../images/left.png") repeat-y, url("../images/right.png") repeat-y 100% ;
+    width: 980px !important;
+    margin: 0 auto !important;
+
+}
+.vt_section{
+    background: #cccccc;
+}*/
+
+#vt_logo{
+    width: 300px;
+}
+.headermanual5{
+    float: right;
+    color: #fff;
+}
+.address{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-top: 18px;
+}
+.address p{
+    line-height: 14px;
 }
