@@ -224,6 +224,7 @@ border:none;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     border-radius: 6px;
     margin-top: 18px;
+   margin-bottom: 18px;
 
 }
 .article_background.home-font{
@@ -243,7 +244,7 @@ cursor: pointer;
     color: #FD9801;
     display: block;
     margin: 0 auto;
-    width: 200px;
+    text-align: center;
 }
 .inside_link{
     font-size: 14px;
@@ -262,10 +263,13 @@ cursor: pointer;
 }
 #fre h3{
     color: #fd9801 !important;
-    width: 180px;
+    width: 300px;
+    text-align: center;
     margin: 0 auto;
     margin-top: 20px;
-    font-size: 20px !important;
+    font-size: 28px !important;
+    font-family: Decor;
+    margin-bottom: 8px;
 }
 .blog{
     margin-top: 18px;
@@ -276,15 +280,6 @@ cursor: pointer;
     font-weight: normal;font-size: 25px;
     line-height: 36px;
 }
-/*.article_background{
-    background: url("../images/left.png") repeat-y, url("../images/right.png") repeat-y 100% ;
-    width: 980px !important;
-    margin: 0 auto !important;
-
-}
-.vt_section{
-    background: #cccccc;
-}*/
 
 #vt_logo{
     width: 300px;
@@ -304,4 +299,40 @@ cursor: pointer;
 .items-row h2{
     font-family:Decor;
     font-weight: normal;
+}
+.article_background h1{
+    font-family: Decor;font-weight: normal;
+}
+.label_skitter{
+
+
+}
+.AG_album_thumb{
+    background: #333;
+}
+.vt_blog .item-page h2{
+    font-family: Decor !important;
+    font-weight: normal;
+    font-size: 18px;
+    text-decoration: underline;
+}
+
+.vt_box{
+margin-top: -40px;
+}
+
+.vt_heading2{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 70px;
+    text-shadow:
+        -1px -1px 0 #535353,
+        1px -1px 0 #8a8a8a,
+        -1px 1px 0 #535353,
+        1px 1px 0 #535353;
+
+}
+
+.box_skitter .label_skitter h4{
+    margin-top: 25px;
 }

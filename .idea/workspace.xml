@@ -2,22 +2,131 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banners/IMG_2336.jpg" />
+      <change type="DELETED" beforePath="D:\projects\test1.local\joomla\images\mebel\kuhni1\P1010231.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/20130827_100852.jpg" afterPath="$PROJECT_DIR$/images/gallery1/20130827_100852.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/20130827_100918.jpg" afterPath="$PROJECT_DIR$/images/gallery1/20130827_100918.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/20130827_100934.jpg" afterPath="$PROJECT_DIR$/images/gallery1/20130827_100934.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/20130827_100946.jpg" afterPath="$PROJECT_DIR$/images/gallery1/20130827_100946.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/20130827_101004.jpg" afterPath="$PROJECT_DIR$/images/gallery1/20130827_101004.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/20130827_101018.jpg" afterPath="$PROJECT_DIR$/images/gallery1/20130827_101018.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/20130910_121537.jpg" afterPath="$PROJECT_DIR$/images/gallery1/20130910_121537.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/20130910_121610.jpg" afterPath="$PROJECT_DIR$/images/gallery1/20130910_121610.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/20130910_121631.jpg" afterPath="$PROJECT_DIR$/images/gallery1/20130910_121631.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/20130910_121647.jpg" afterPath="$PROJECT_DIR$/images/gallery1/20130910_121647.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/20130910_121659.jpg" afterPath="$PROJECT_DIR$/images/gallery1/20130910_121659.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/20130910_121725.jpg" afterPath="$PROJECT_DIR$/images/gallery1/20130910_121725.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/20130910_121742.jpg" afterPath="$PROJECT_DIR$/images/gallery1/20130910_121742.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/20130910_121758.jpg" afterPath="$PROJECT_DIR$/images/gallery1/20130910_121758.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/20130910_121812.jpg" afterPath="$PROJECT_DIR$/images/gallery1/20130910_121812.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/20130910_121838.jpg" afterPath="$PROJECT_DIR$/images/gallery1/20130910_121838.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/20130916_101942.jpg" afterPath="$PROJECT_DIR$/images/gallery1/20130916_101942.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/20130916_102000.jpg" afterPath="$PROJECT_DIR$/images/gallery1/20130916_102000.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/20130916_102017.jpg" afterPath="$PROJECT_DIR$/images/gallery1/20130916_102017.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/20130916_102026.jpg" afterPath="$PROJECT_DIR$/images/gallery1/20130916_102026.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/20130916_102042.jpg" afterPath="$PROJECT_DIR$/images/gallery1/20130916_102042.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/DSC00034.jpg" afterPath="$PROJECT_DIR$/images/gallery1/DSC00034.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/DSCN2264.jpg" afterPath="$PROJECT_DIR$/images/gallery1/DSCN2264.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1/DSCN2265.jpg" afterPath="$PROJECT_DIR$/images/gallery1/DSCN2265.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1010232.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1010232.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1010251.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1010251.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1040184.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1040184.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1050186.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1050186.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1050188.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1050188.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1130196.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1130196.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1130198.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1130198.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1160203.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1160203.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1160207.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1160207.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1160208.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1160208.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1170209.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1170209.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1170210.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1170210.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1180187.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1180187.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1180188.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1180188.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1180190.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1180190.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1180192.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1180192.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1180214.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1180214.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1200010.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1200010.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1200013.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1200013.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1200015.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1200015.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1200016.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1200016.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1310196.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1310196.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1310198.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1310198.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P1310199.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P1310199.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P2010219.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P2010219.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P2040200.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P2040200.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P3030023.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P3030023.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P3030025.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P3030025.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P3070231.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P3070231.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P3070233.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P3070233.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P3070236.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P3070236.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P3290241.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P3290241.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P3290242.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P3290242.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P4040222.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P4040222.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P4040226.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P4040226.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P4060029.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P4060029.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P4080031.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P4080031.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P4080032.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P4080032.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mebel/kuhni1/P4230274.jpg" afterPath="$PROJECT_DIR$/images/mebel/kuhni1/P4230274.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1010232.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1010232.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1010251.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1010251.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1040184.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1040184.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1050186.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1050186.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1050188.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1050188.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1130196.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1130196.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1130198.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1130198.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1160203.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1160203.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1160207.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1160207.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1160208.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1160208.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1170209.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1170209.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1170210.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1170210.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1180187.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1180187.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1180188.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1180188.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1180190.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1180190.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1180192.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1180192.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1180214.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1180214.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1200010.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1200010.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1200013.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1200013.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1200015.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1200015.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1200016.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1200016.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1310196.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1310196.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1310198.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1310198.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1310199.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p1310199.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p2010219.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p2010219.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p2040200.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p2040200.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p3030023.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p3030023.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p3030025.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p3030025.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p3070231.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p3070231.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p3070233.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p3070233.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p3070236.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p3070236.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p3290241.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p3290241.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p3290242.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p3290242.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p4040222.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p4040222.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p4040226.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p4040226.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p4060029.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p4060029.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p4080031.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p4080031.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p4080032.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p4080032.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p4230274.jpg" afterPath="$PROJECT_DIR$/cache/jw_sigpro/jwsigpro_cache_4214a7f8c3_p4230274.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/error.php" afterPath="$PROJECT_DIR$/logs/error.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/vt_personal/css/layouts.css" afterPath="$PROJECT_DIR$/templates/vt_personal/css/layouts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/vt_personal/css/modules.css" afterPath="$PROJECT_DIR$/templates/vt_personal/css/modules.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\projects\test1.local\joomla\images\decor\decor.jpg" afterPath="$PROJECT_DIR$/images/decor/decor.JPG" />
     </list>
     <ignored path="joomla.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1383254368277" ignored="false" />
+    <file path="/Dummy.txt" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1383381587770" ignored="false" />
     <file path="/helloworld.php" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1382172942972" ignored="false" />
     <file path="/controller.php" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1382101733087" ignored="false" />
     <file path="/view.html.php" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1382116544435" ignored="false" />
     <file path="/default.php" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1382116381347" ignored="false" />
-    <file path="/layouts.css" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1383254476289" ignored="false" />
+    <file path="/layouts.css" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1383397116836" ignored="false" />
     <file path="/index.php" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1383059965829" ignored="false" />
     <file path="/ytv.html" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1382974073240" ignored="false" />
     <file path="/css_var.php" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1383050818120" ignored="false" />
     <file path="/ytv.css" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1383051473978" ignored="false" />
     <file path="/tmpl.html" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1383216822456" ignored="false" />
+    <file path="/modules.css" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1383260540792" ignored="false" />
+    <file path="/index.html" changelist="8a2366e1-c901-49d0-a7c5-7c595d7ebaf8" time="1383342292202" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,82 +146,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="layouts.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/vt_personal/css/layouts.css">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../canvas/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="305" column="24" selection-start="7597" selection-end="7597" vertical-scroll-proportion="0.8817427">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tmpl.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tmp/tmpl.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="45" selection-start="1669" selection-end="1669" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ytv.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/ytv.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="48" selection-start="1796" selection-end="1796" vertical-scroll-proportion="0.0">
+            <state line="23" column="21" selection-start="478" selection-end="478" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/vt_personal/index.php">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="107" column="27" selection-start="5936" selection-end="5936" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="26" column="32" selection-start="0" selection-end="1319" vertical-scroll-proportion="-0.76">
+              <folding>
+                <element signature="e#6#201#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/vt_personal/vtemtools/index.html">
+      <file leaf-file-name="layouts.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/vt_personal/css/layouts.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="debug.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/vt_personal/vtemtools/debug.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/vt_personal/vtemtools/default.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="css_var.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/vt_personal/vtemtools/css_var.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="20" selection-start="2203" selection-end="2203" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ytv.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ytv.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="3" selection-start="600" selection-end="600" vertical-scroll-proportion="0.0">
+            <state line="336" column="21" selection-start="8053" selection-end="8053" vertical-scroll-proportion="0.88850176">
               <folding />
             </state>
           </provider>
@@ -136,9 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/components/com_helloworld/views/helloworld/tmpl/default.php" />
-        <option value="$PROJECT_DIR$/components/com_helloworld/helloworld.php" />
-        <option value="$PROJECT_DIR$/components/com_helloworld/models/helloworld.php" />
         <option value="$PROJECT_DIR$/components/com_helloworld/controller.php" />
         <option value="$PROJECT_DIR$/components/com_helloworld/views/helloworld/view.html.php" />
         <option value="$PROJECT_DIR$/tmp/component/helloworld.xml" />
@@ -151,16 +205,18 @@
         <option value="$PROJECT_DIR$/css/ytv.css" />
         <option value="$PROJECT_DIR$/templates/vt_personal/index.php" />
         <option value="$PROJECT_DIR$/tmp/tmpl.html" />
+        <option value="$PROJECT_DIR$/templates/vt_personal/css/modules.css" />
+        <option value="$PROJECT_DIR$/../canvas/index.html" />
+        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/templates/vt_personal/css/layouts.css" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Unnamed" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="89" />
-    <option name="y" value="20" />
+    <option name="x" value="2" />
     <option name="width" value="1364" />
-    <option name="height" value="697" />
+    <option name="height" value="768" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -263,6 +319,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vt_personal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joomla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -289,13 +367,13 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="149" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="149" />
     <property name="options.splitter.main.proportions" value="0.32083333" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="153" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../canvas" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="150" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="828" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="824" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="828" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="149" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="142" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
@@ -345,14 +423,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="89" y="20" width="1364" height="697" extended-state="1" />
+    <frame x="2" y="0" width="1364" height="768" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28878647" sideWeight="0.9821826" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30261138" sideWeight="0.9821826" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -429,21 +507,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tmp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tmp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tmp/helloworld/admin/sql/updates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -466,37 +529,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tmp/tmpl.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="45" selection-start="1669" selection-end="1669" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="6" column="45" selection-start="1669" selection-end="1669" vertical-scroll-proportion="0.04157549" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/ytv.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="48" selection-start="1796" selection-end="1796" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="94" column="48" selection-start="1796" selection-end="1796" vertical-scroll-proportion="0.038383838" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/vt_personal/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="27" selection-start="5936" selection-end="5936" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="107" column="27" selection-start="5936" selection-end="5936" vertical-scroll-proportion="0.039748956" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/vt_personal/vtemtools/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/vt_personal/vtemtools/debug.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/vt_personal/vtemtools/default.php">
@@ -508,21 +561,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/vt_personal/vtemtools/css_var.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="20" selection-start="2203" selection-end="2203" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="40" column="20" selection-start="2203" selection-end="2203" vertical-scroll-proportion="0.039748956" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ytv.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="3" selection-start="600" selection-end="600" vertical-scroll-proportion="0.0">
+        <state line="16" column="3" selection-start="600" selection-end="600" vertical-scroll-proportion="0.08577406" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/vt_personal/css/modules.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="437" column="27" selection-start="12008" selection-end="12033" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../canvas/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="21" selection-start="478" selection-end="478" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="32" selection-start="0" selection-end="1319" vertical-scroll-proportion="-0.76">
+          <folding>
+            <element signature="e#6#201#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/vt_personal/css/layouts.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="305" column="24" selection-start="7597" selection-end="7597" vertical-scroll-proportion="0.8817427">
+        <state line="336" column="21" selection-start="8053" selection-end="8053" vertical-scroll-proportion="0.88850176">
           <folding />
         </state>
       </provider>
